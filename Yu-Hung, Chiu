@@ -8,20 +8,8 @@
 	<link rel="stylesheet" href="CA1-Style.css">
 </head>
 
-
-
-
 <body> 	
 
-	<div> <h2 class="Address"> Contact us </h2> 
-	
-	</div>
-	
-	
-	
-	
-	
-	
 	<div><h2 class="survey"> Customer Survey </h2></div>
 	<div><form class= "customersurvey" >
 	<table>
@@ -36,7 +24,7 @@
 		</tr>
 
 		<tr class="OPT">
-			<td>What kinds of problem do your have?  </td>
+			<td>What kinds of problems do you have?  </td>
 			<td><select>
 				<option> </option>
 				<option> Wrong order </option>
